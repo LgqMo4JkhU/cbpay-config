@@ -1,7 +1,7 @@
 {
-  "version" : 1793706353,
-  "updated" : "2026-11-03 19:45:53",
+  "version" : 1793706476,
+  "updated" : "2026-11-03 19:47:56",
   "health" : "d59e2fb0d381aef235f6ddf31d9bbfe8",
-  "domains" : [ "https://wallet.jjuuuu.xyz", "https://backup-test.example" ],
-  "sig" : "MEQCIARmXIne6UkVo9BJMFbU0xGtoNhKzRGgiSLJCjK39pduAiBb6bMHZKGwemu4w4MihpA9P7uCryzIH2EWb2sse7kvaA=="
+  "domains" : [ "https://wallet.jjuuuu.xyz" ],
+  "sig" : "MEUCIQDp6MGGizyfaKYhWiQCad7JMMScWtShc4Pmdxq2zi1+mgIgRniIxAwXv/ddv7kCmMDoFTaKEa6lS+trdVpR5QOG+/M="
 }
