@@ -1,7 +1,7 @@
 {
-  "version" : 1793750080,
-  "updated" : "2026-11-04 07:54:40",
+  "version" : 1793750143,
+  "updated" : "2026-11-04 07:55:43",
   "health" : "d59e2fb0d381aef235f6ddf31d9bbfe8",
-  "domains" : [ "https://wallet.jjuuuu.xyz", "https://nx-cw-domain-test-20261029.com", "https://api.jjuuuu.xyz" ],
-  "sig" : "MEUCIQDwhtK+46dN6163QJNk05uvbLba7gSKuCqr8FE2s9WTBAIgLuk4neJzawL/tcjIlaCKXH3dyG30ftWDCnOplqQIpp0="
+  "domains" : [ "https://wallet.jjuuuu.xyz" ],
+  "sig" : "MEUCIEMLK2iQ5RiTmeJYw22UT8Cwv8BDepIc/L9UQfywIxc2AiEA8x8E1J1rK7KFj0Kyg7NPKhpPxZQ3bznDJKDYFusnYoo="
 }
